@@ -7,6 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.02.Step1", "01.02.Step1\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Write your first CSharp code", "01.Write your first CSharp code", "{E7748280-B75D-400A-A8F7-A5C12BC46A9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.02.Step4", "01.02.Step4\01.02.Step4.csproj", "{C70A8288-2B1E-4CBA-97AD-412FC7D86399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.03.HowItWorks", "01.03.HowItWorks\01.03.HowItWorks.csproj", "{6C58F1E4-B0C1-41CC-87AB-9F87EEB6C453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.04.Challenge", "01.04.Challenge\01.04.Challenge.csproj", "{5744CA97-044B-4FB9-A276-FF0436ECD80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.05.Solution", "01.05.Solution\01.05.Solution.csproj", "{3B8BF7F1-FDF8-484C-B979-C1E71F12B548}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Store and retrieve data using literal and variable values in CSharp", "02.Store and retrieve data using literal and variable values in CSharp", "{878B2709-4595-4551-990B-BE94F6501CEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +27,32 @@ Global
 		{A667AD92-4E36-4142-A726-D83BA6ADFB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A667AD92-4E36-4142-A726-D83BA6ADFB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A667AD92-4E36-4142-A726-D83BA6ADFB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70A8288-2B1E-4CBA-97AD-412FC7D86399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70A8288-2B1E-4CBA-97AD-412FC7D86399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70A8288-2B1E-4CBA-97AD-412FC7D86399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70A8288-2B1E-4CBA-97AD-412FC7D86399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C58F1E4-B0C1-41CC-87AB-9F87EEB6C453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C58F1E4-B0C1-41CC-87AB-9F87EEB6C453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C58F1E4-B0C1-41CC-87AB-9F87EEB6C453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C58F1E4-B0C1-41CC-87AB-9F87EEB6C453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5744CA97-044B-4FB9-A276-FF0436ECD80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5744CA97-044B-4FB9-A276-FF0436ECD80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5744CA97-044B-4FB9-A276-FF0436ECD80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5744CA97-044B-4FB9-A276-FF0436ECD80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8BF7F1-FDF8-484C-B979-C1E71F12B548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8BF7F1-FDF8-484C-B979-C1E71F12B548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8BF7F1-FDF8-484C-B979-C1E71F12B548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8BF7F1-FDF8-484C-B979-C1E71F12B548}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A667AD92-4E36-4142-A726-D83BA6ADFB0C} = {E7748280-B75D-400A-A8F7-A5C12BC46A9F}
+		{C70A8288-2B1E-4CBA-97AD-412FC7D86399} = {E7748280-B75D-400A-A8F7-A5C12BC46A9F}
+		{6C58F1E4-B0C1-41CC-87AB-9F87EEB6C453} = {E7748280-B75D-400A-A8F7-A5C12BC46A9F}
+		{5744CA97-044B-4FB9-A276-FF0436ECD80B} = {E7748280-B75D-400A-A8F7-A5C12BC46A9F}
+		{3B8BF7F1-FDF8-484C-B979-C1E71F12B548} = {E7748280-B75D-400A-A8F7-A5C12BC46A9F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C1EE1572-5DFF-4B5E-832A-A68B029B23BD}

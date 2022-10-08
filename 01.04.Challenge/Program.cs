@@ -4,13 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01._02.Step1
+namespace _01._04.Challenge
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("This is the");
+            Console.Write(" first line.");
+
+            Console.WriteLine();
+
+            Console.Write("This is the");
+            Console.Write(" second line.");
+
             Console.ReadKey();
         }
     }
